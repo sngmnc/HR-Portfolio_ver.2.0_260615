@@ -1,0 +1,6 @@
+{
+  "name": "S.M. Choi Portfolio",
+  "description": "조직 운영의 기준을 만들고 안정화해온 경영지원형 HR S.M. Choi의 포트폴리오",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
